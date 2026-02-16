@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Facebook Story",
+  "base_artist": "Frank Ocean",
+  "createdAt": "2026-02-16T11:43:10.015870Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Facebook Story",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/01_Facebook_Story_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Facebook Story (feat. SebastiAn)",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/02_Facebook_Story_(feat._SebastiAn)_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Facebook Story",
+      "artist": "Frank Ocean feat. Sebastian",
+      "has_synced": true,
+      "path": "select/03_Facebook_Story_Frank_Ocean_feat._Sebastian.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Facebook Story",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/04_Facebook_Story_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Facebook Story | HiphopKit.com",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/05_Facebook_Story___HiphopKit.com_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Facebook Story (Ft. Sebastian)",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/06_Facebook_Story_(Ft._Sebastian)_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Facebook Story",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/07_Facebook_Story_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Facebook Story",
+      "artist": "フランク・オーシャン",
+      "has_synced": true,
+      "path": "select/08_Facebook_Story_フランク・オーシャン.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Facebook Story (Paused)",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/09_Facebook_Story_(Paused)_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "12 - Facebook Story",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/10_12_-_Facebook_Story_Frank_Ocean.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Facebook Story",
+      "artist": "Frank Ocean",
+      "has_synced": false,
+      "path": "select/pl_01_Facebook_Story_Frank_Ocean.txt"
+    }
+  ]
+}
